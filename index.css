@@ -1,0 +1,27 @@
+.mainpagediv {
+    text-align: center;
+    
+}
+
+a {
+    
+    
+    
+    position: relative;
+    top: 400px;
+    margin: 50px;
+}
+
+.mainpage {
+    color: #333;
+    top: 200px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+}
+
+button {
+    background-color: #333;
+    color: #fff;
+    border-radius: 15px;
+    width: 250px;
+}
